@@ -1,7 +1,7 @@
 package com.wzy.structural.facade;
 
 /**
- * description: ShapeMaker <br>
+ * description: ShapeMaker 外观类 <br>
  * date: 2020-06-10 13:43 <br>
  * author: wzy <br>
  * version: 1.0 <br>

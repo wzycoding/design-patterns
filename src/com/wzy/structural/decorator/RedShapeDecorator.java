@@ -1,7 +1,7 @@
 package com.wzy.structural.decorator;
 
 /**
- * description: RedShapeDecorator <br>
+ * description: RedShapeDecorator 实际装饰类<br>
  * date: 2020-06-10 11:38 <br>
  * author: wzy <br>
  * version: 1.0 <br>

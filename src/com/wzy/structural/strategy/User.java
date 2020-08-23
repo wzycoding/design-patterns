@@ -8,6 +8,7 @@ public class User {
     private String name;
     private Boolean ordered;
     private Boolean vip;
+    private Integer type;
 
     public User(String name, Boolean ordered, Boolean vip) {
         this.name = name;
@@ -37,6 +38,14 @@ public class User {
 
     public void setVip(Boolean vip) {
         this.vip = vip;
+    }
+
+    public Integer getType() {
+        return type;
+    }
+
+    public void setType(Integer type) {
+        this.type = type;
     }
 
     @Override
